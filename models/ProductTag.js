@@ -1,4 +1,5 @@
-const { Model, DataTypes } = require('sequelize');
+// LOTS OF STARTED CODE PROVIDED BY CLASS. ALTERED CODE FROM CLASSWORK TO MAKE WORK ON THIS CHALLENGE.
+const {Model, DataTypes} = require('sequelize');
 
 const sequelize = require('../config/connection');
 

@@ -1,3 +1,4 @@
+// LOTS OF STARTED CODE PROVIDED BY CLASS. ALTERED CODE FROM CLASSWORK TO MAKE WORK ON THIS CHALLENGE.
 // import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
 // import our database connection from config.js

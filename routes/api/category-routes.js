@@ -1,3 +1,4 @@
+// LOTS OF STARTED CODE PROVIDED BY CLASS. ALTERED CODE FROM CLASSWORK TO MAKE WORK ON THIS CHALLENGE.
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 

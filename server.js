@@ -1,3 +1,4 @@
+// LOTS OF STARTED CODE PROVIDED BY CLASS. ALTERED CODE FROM CLASSWORK TO MAKE WORK ON THIS CHALLENGE.
 const express = require('express');
 const routes = require('./routes');
 // import sequelize connection

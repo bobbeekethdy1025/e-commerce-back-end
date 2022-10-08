@@ -24,4 +24,8 @@ Within the repository you will all the files that were needed inorder to have th
 To use this application, user will need to clone this repo onto their system, set up the database via MySQL, then run the following lines into the terminal, 'npm run seed' and 'npm run start'.
 Afterwards, the server will now run live and you can you Insomnia to test.
 
+## Credits
+
+A lot of this code was provided by the class and reused code from class work activities. The code was not copied, but altered from previous class activities.
+
 Thank you for taking the time to read this.
